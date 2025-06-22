@@ -89,7 +89,7 @@ Oyunun temel oynanışını ve özelliklerini gösteren kısa gif:
 ![BalloonMathTanıtım](https://github.com/user-attachments/assets/ca5432a3-724e-49da-a59a-7a6d04eb2778)
 
 
-> Aşağıdaki gif, oyunun ana mekaniklerini ve kullanıcı arayüzünü gösteriyor.  
+> Yukarıdaki gif, oyunun ana mekaniklerini ve kullanıcı arayüzünü gösteriyor.  
 > Balonların nasıl çıktığını, soruların nasıl üretildiğini ve puanlama sistemini görebilirsiniz.  
 > Bu kısa demo, oyunun temel oynanış deneyimini hızlıca kavramanızı sağlar.
 
