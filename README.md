@@ -31,11 +31,13 @@ Bu oyunun amacı, ilköğretim çağındaki çocukların toplama, çıkarma ve �
 - Windows 10 veya üzeri (oyunun çalışması için)
 
 ### Kurulum Adımları:
-
-1. Unity Hub üzerinden projeyi açın.
-2. Bağımlılıkları kontrol edin: TextMeshPro kurulumu yapılmalı (ilk açılışta otomatik sorar).
-3. Assets klasöründeki sahne dosyasını açın (`GameScene`).
-4. `Play` tuşuna basarak oyunu test edebilirsiniz.
+1. Unity Hub'ı bilgisayarınıza kurun.
+2. Unity Hub üzerinden `2021.3.45f1` sürümünü indirin ve kurun.
+3. GitHub'daki bu projeyi ZIP dosyası olarak indirin veya klonlayın.
+3. Unity Hub üzerinden projeyi açın.
+4. Bağımlılıkları kontrol edin: TextMeshPro kurulumu yapılmalı (ilk açılışta otomatik sorar).
+5. Assets klasöründeki sahne dosyasını açın (`GameScene`).
+6. `Play` tuşuna basarak oyunu test edebilirsiniz.
 
 ### Bağımlılıklar
 
