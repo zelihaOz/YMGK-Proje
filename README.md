@@ -58,6 +58,7 @@ Bu oyunun amacı, ilköğretim çağındaki çocukların toplama, çıkarma ve �
 ### Öne Çıkan Özellikler
 
 - Renkli ve hareketli 2D balon animasyonları
+- Arka planda hafif bir müzik çalar
 - Rastgele üretilen işlemler (toplama, çıkarma, çarpma)
 - Skor sistemi
 - Basit kullanıcı arayüzü
