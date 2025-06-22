@@ -13,7 +13,7 @@ Bu oyunun amacı, ilköğretim çağındaki çocukların toplama, çıkarma ve �
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **Unity** (versiyon: 2021.3.45f1)
+- **Unity** (Bu proje Unity 2021.3.45f1 ile geliştirilmiştir)
 - **C#**
 - **TextMeshPro** (UI metin desteği)
 - **Aseprite / PNG Sprite'lar** (2D görseller için)
@@ -25,7 +25,7 @@ Bu oyunun amacı, ilköğretim çağındaki çocukların toplama, çıkarma ve �
 
 ### Gerekli Yazılımlar:
 
-- Unity Hub (Unity 2023.3 veya üzeri)
+- Unity Hub (3.12.1)
 - Visual Studio (Unity ile birlikte gelen)
 - .NET Framework (Unity ile uyumlu versiyon)
 - Windows 10 veya üzeri (oyunun çalışması için)
