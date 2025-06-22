@@ -72,12 +72,13 @@ Bu proje yalnızca 2D tabanlıdır, artırılmış gerçeklik (AR) içeriği iç
 ## 🖼️ Ekran Görüntüleri
 
 Aşağıda oyundan bazı görüntüler yer almaktadır:
+![gameplay-1](https://github.com/user-attachments/assets/bb1ee487-c98c-4f39-a234-498872322c0d)
+![main-menü](https://github.com/user-attachments/assets/ccc067ec-bb3b-455c-be03-e31790b1b136)
+![math-question](https://github.com/user-attachments/assets/c4db9063-684a-4c32-830a-6ea2a226ce8f)
+![correct-answer](https://github.com/user-attachments/assets/f66be27a-9ba1-4ce8-b392-330e6ac60f4c)
+![wrong-answer](https://github.com/user-attachments/assets/b80f2c38-d720-4f12-a51d-93df5c888019)
 
-![gameplay-1](https://github.com/user-attachments/assets/78e0973d-2d15-4760-86b8-69b9c1fb698b)
-![main-menü](https://github.com/user-attachments/assets/36d9f871-8c9b-474b-b10a-1cbfc348a8dd)
-![math-question](https://github.com/user-attachments/assets/a5c33d54-eec5-4111-afda-4abc961a77dd)
-![correct-answer](https://github.com/user-attachments/assets/0a7b4b0b-1369-4185-823c-55b58f04f112)
-![wrong-answer](https://github.com/user-attachments/assets/a475dc68-ccfb-439c-8251-adf94f2f6394)
+
 
 ---
 
