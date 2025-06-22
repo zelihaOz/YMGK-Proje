@@ -82,6 +82,16 @@ Aşağıda oyundan bazı görüntüler yer almaktadır:
 ![wrong-answer](https://github.com/user-attachments/assets/b80f2c38-d720-4f12-a51d-93df5c888019)
 
 
+## Kısa Bir Tanıtım Videosu
+
+Oyunun temel oynanışını ve özelliklerini gösteren kısa gif:
+
+![BalloonMathTanıtım](https://github.com/user-attachments/assets/ca5432a3-724e-49da-a59a-7a6d04eb2778)
+
+
+> Aşağıdaki gif, oyunun ana mekaniklerini ve kullanıcı arayüzünü gösteriyor.  
+> Balonların nasıl çıktığını, soruların nasıl üretildiğini ve puanlama sistemini görebilirsiniz.  
+> Bu kısa demo, oyunun temel oynanış deneyimini hızlıca kavramanızı sağlar.
 
 ---
 
