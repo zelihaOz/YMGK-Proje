@@ -96,6 +96,7 @@ Oyunun temel oynanışını ve özelliklerini gösteren kısa gif:
 > Balonların nasıl çıktığını, soruların nasıl üretildiğini ve puanlama sistemini görebilirsiniz.  
 > Bu kısa demo, oyunun temel oynanış deneyimini hızlıca kavramanızı sağlar.
 
+Sunum Videosu   https://vimeo.com/manage/videos/1095443300/faf8aa8e3e
 ---
 
 ## 📜 Telif ve Katkı
