@@ -1,8 +1,8 @@
-# 🎈 BalonMatik - Eğlenceli Matematik Oyunu
+# 🎈 BalloonMath - Eğlenceli Matematik Oyunu
 
 ## 📌 Proje Açıklaması
 
-BalonMatik, çocuklar için hazırlanmış, matematik işlemlerini eğlenceli bir şekilde öğreten bir 2D oyundur. Oyunda sahneye sürekli olarak farklı renkte balonlar çıkar. Oyuncu bu balonlara tıklayarak matematik işlemleriyle karşılaşır ve doğru cevap verdikçe puan kazanır.
+BalloonMath, çocuklar için hazırlanmış, matematik işlemlerini eğlenceli bir şekilde öğreten bir 2D oyundur. Oyunda sahneye sürekli olarak farklı renkte balonlar çıkar. Oyuncu bu balonlara tıklayarak matematik işlemleriyle karşılaşır ve doğru cevap verdikçe puan kazanır.
 
 ## 🎯 Projenin Amacı ve Hedef Kitlesi
 
