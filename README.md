@@ -74,11 +74,9 @@ Bu proje yalnızca 2D tabanlıdır, artırılmış gerçeklik (AR) içeriği iç
 Aşağıda oyundan bazı görüntüler yer almaktadır:
 
 ![gameplay-1](https://github.com/user-attachments/assets/bb1ee487-c98c-4f39-a234-498872322c0d)
-
 ![main-menü](https://github.com/user-attachments/assets/ccc067ec-bb3b-455c-be03-e31790b1b136)
 
 ![math-question](https://github.com/user-attachments/assets/c4db9063-684a-4c32-830a-6ea2a226ce8f)
-
 ![correct-answer](https://github.com/user-attachments/assets/f66be27a-9ba1-4ce8-b392-330e6ac60f4c)
 
 ![wrong-answer](https://github.com/user-attachments/assets/b80f2c38-d720-4f12-a51d-93df5c888019)
