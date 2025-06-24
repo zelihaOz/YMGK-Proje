@@ -1,8 +1,8 @@
-# 🎈 BalloonMath - Eğlenceli Matematik Oyunu
+# 🎈 Pop&Solve - Eğlenceli Matematik Oyunu
 
 ## 📌 Proje Açıklaması
 
-BalloonMath, çocuklar için hazırlanmış, matematik işlemlerini eğlenceli bir şekilde öğreten bir 2D oyundur. Oyunda sahneye sürekli olarak farklı renkte balonlar çıkar. Oyuncu bu balonlara tıklayarak matematik işlemleriyle karşılaşır ve doğru cevap verdikçe puan kazanır.
+Pop&Solve, çocuklar için hazırlanmış, matematik işlemlerini eğlenceli bir şekilde öğreten bir 2D oyundur. Oyunda sahneye sürekli olarak farklı renkte balonlar çıkar. Oyuncu bu balonlara tıklayarak matematik işlemleriyle karşılaşır ve doğru cevap verdikçe puan kazanır.
 
 ## 🎯 Projenin Amacı ve Hedef Kitlesi
 
@@ -100,7 +100,8 @@ Sunum Videosu   https://vimeo.com/manage/videos/1095443300/faf8aa8e3e
 ---
 
 ## 📜 Telif ve Katkı
+**Not:** Bu proje daha önce "BaloonMath" adıyla yayınlanmıştı. İsim benzerliği riskinden dolayı yeniden adlandırılmıştır. Proje yalnızca eğitim amaçlıdır.
 
-Bu oyun eğitim amaçlı hazırlanmıştır. Arka plan müziği ve görseller telifsiz kaynaklardan alınmıştır.
+Bu oyun eğitim amaçlı hazırlanmıştır. Arka plan müziği ve görseller telifsiz kaynaklardan (royalty-free) alınmıştır.
 
 Tüm hakları saklıdır © 2025 Zeliha Özer
